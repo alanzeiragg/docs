@@ -25,27 +25,22 @@
     "name": "Voltar para o Site",
     "url": "https://magnataroleplay.com.br"
   },
-  "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
-  ],
+  // "tabs": [
+  //   {
+  //     "name": "API Reference",
+  //     "url": "api-reference"
+  //   }
+  // ],
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "name": "Comunidade no Discord",
+      "icon": "discord",
+      "url": "https://discord.gg/magnataroleplay"
     },
     {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
+      "name": "Patchnotes",
       "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https://magnataroleplay.com.br/patchnotes"
     }
   ],
   "navigation": [
@@ -89,7 +84,6 @@
     "x": "https://x.com/magnataroleplay",
     "tiktok": "https://tiktok.com/@magnataroleplay",
     "youtube": "https://youtube.com/magnataroleplay",
-    "linkedin": "https://www.linkedin.com/company/magnataroleplay",
-    "discord": "https://discord.gg/magnataroleplay"
+    "linkedin": "https://www.linkedin.com/company/magnataroleplay"
   }
 }
