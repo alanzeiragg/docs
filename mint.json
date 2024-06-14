@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -84,8 +84,10 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
+    "facebook": "https://facebook.com/magnataroleplay",
+    "instagram": "https://instagram.com/magnataroleplay",
+    "x": "https://x.com/magnataroleplay",
     "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "linkedin": "https://www.linkedin.com/company/magnataroleplay"
   }
 }
