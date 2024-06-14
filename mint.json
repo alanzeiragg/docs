@@ -25,12 +25,12 @@
     "name": "Voltar para o Site",
     "url": "https://magnataroleplay.com.br"
   },
-  // "tabs": [
-  //   {
-  //     "name": "API Reference",
-  //     "url": "api-reference"
-  //   }
-  // ],
+  "tabs": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
   "anchors": [
     {
       "name": "Comunidade no Discord",
