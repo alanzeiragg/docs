@@ -47,7 +47,7 @@
     {
       "group": "Iniciar",
       "pages": [
-        "introdução",
+        "introducao",
         "quickstart",
         "development"
       ]
