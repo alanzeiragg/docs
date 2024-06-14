@@ -45,9 +45,9 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Iniciar",
       "pages": [
-        "introduction",
+        "introducao",
         "quickstart",
         "development"
       ]
