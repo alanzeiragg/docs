@@ -25,11 +25,10 @@
     "name": "Voltar para o Site",
     "url": "https://magnataroleplay.com.br"
   },
+  "primaryTab": {
+      "name": "Home"
+  },
   "tabs": [
-    {
-      "name": "Regras",
-      "url": "https://magnataroleplay.com.br/"
-    },
     {
       "name": "Termos & Serviços",
       "url": "https://magnataroleplay.com.br/termos"
